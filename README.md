@@ -30,4 +30,4 @@ java AutoClean <folder_path>
 
 ## Sample Output
 Screenshots demonstrating the program execution and results are included in the `screenshots/` folder.
-sd
+sdds
