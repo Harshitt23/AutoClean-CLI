@@ -67,6 +67,7 @@ public class AutoClean {
     }
 
     private static void moveFile(File file, File destFolder) {
+        
         File destFile = new File(destFolder, file.getName());
 
         if (destFile.exists()) {
